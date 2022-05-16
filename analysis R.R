@@ -1,5 +1,5 @@
 x <- seq(1, 10, len=1)
 y <- 40*2 + rnom(10,0,5)
 plot(x,y)
-summary(x)
-median(x)
+summary (x)
+mean(x)
